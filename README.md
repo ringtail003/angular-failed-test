@@ -1,9 +1,5 @@
 <img src="https://img.shields.io/badge/Angular-8.3-blue?style=for-the-badge&logo=angular"> <img src="https://img.shields.io/badge/Node.js-12.13-blue?style=for-the-badge&logo=node.js">
 
-# Overview
-
-TBL
-
 ## Branches
 
 - [ngOnChange動かないんですけど？](https://github.com/ringtail003/angular-failed-test/tree/ng-on-changes)
