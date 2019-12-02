@@ -2,9 +2,11 @@
 
 # Overview
 
-TBL
+このリポジトリはQiitaの記事で紹介したサンプルコード置き場です。
+https://qiita.com/ringtail003/items/79c5d14b76a690321114
 
-## Branches
+
+# Branches
 
 - [ngOnChange動かないんですけど？](https://github.com/ringtail003/angular-failed-test/tree/ng-on-changes)
 - [ビューが更新されないんですけど？](https://github.com/ringtail003/angular-failed-test/tree/detect-changes)
@@ -16,7 +18,7 @@ TBL
 - [実行されないテスト](https://github.com/ringtail003/angular-failed-test/tree/no-executed)
 - [現在日時ってどうテストするんだっけ？](https://github.com/ringtail003/angular-failed-test/tree/fake-timer)
 
-## Running unit tests
+# Running unit tests
 
 ```bash
 $ npm ci
